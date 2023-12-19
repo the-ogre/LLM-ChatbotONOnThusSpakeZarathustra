@@ -32,19 +32,3 @@ Users can engage in philosophical discussions by posing questions related to Nie
 ## Dependencies
 
 The project relies on various Python libraries, including LangChain, OpenAI, Beautiful Soup, Chroma, Pydantic, Hugging Face Hub, and Sentence Transformers. Specific versions are indicated in the provided code.
-
-Explore the official documentation of [LangChain](LangChain Documentation), [Chroma](Chroma Database Documentation), and other dependencies for detailed information on their functionalities and usage.
-
-Note: Ensure you have the required API keys and permissions for OpenAI usage.
-
-
-## Official Documentation Links
-
-- [LangChain Documentation](LangChain Documentation)
-- [Chroma Database Documentation](Chroma Database Documentation)
-- [OpenAI API Documentation](OpenAI API Documentation)
-- [Sentence Transformers Documentation](Sentence Transformers Documentation)
-
-Feel free to explore the code and documentation to enhance your understanding of the project's architecture and functionalities.
-
-</response>
