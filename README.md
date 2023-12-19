@@ -1,5 +1,6 @@
-# LLM-QAwithLangChainonThusSpakeZarathustra
-This repo is a question answering system that answers questions based on Nietzsche's Thus Spake Zarathustra.
+# LLM - Chatbot on Thus Spake Zarathustra
+
+This repo is a Chatbot code that answers questions based on Nietzsche's Thus Spake Zarathustra.
 
 <response>
 
